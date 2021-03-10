@@ -1,8 +1,8 @@
 # BookStore
-Web API Project using .NET Core 5
+Web API Project using .NET 5
 
 ## Technologies
-- .NET Core 5
+- .NET 5
 - Entity Framework 5
 - Fluent API
 - AutoMapper
