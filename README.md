@@ -1,9 +1,9 @@
 # BookStore
-Web API Project using .NET Core 3.1
+Web API Project using .NET Core 5
 
 ## Technologies
-- .NET Core 3.1
-- Entity Framework 3.1
+- .NET Core 5
+- Entity Framework 5
 - Fluent API
 - AutoMapper
 - Swagger
